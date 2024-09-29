@@ -1,0 +1,13 @@
+<h1>Momir/Roalesk Generator</h1>
+Pick a mana value:
+<div id="btn">
+    <script>
+    for (let i = 0; i < 15; i++) {
+        var element = document.createElement("button");
+        element.innerHTML = i
+        element.onclick = function() {navigation.navigate("https://scryfall.com/random?q=t:creature mv:" + i)}
+        var btnDiv = document.getElementById("btn");
+        btnDiv.appendChild(element);
+    }
+    </script>
+</div>
