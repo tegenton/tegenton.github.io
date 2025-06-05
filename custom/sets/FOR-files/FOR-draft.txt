@@ -1,0 +1,3116 @@
+[CustomCards]
+	[
+		{
+			"name": "Gathering Forces",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/4_Gathering Forces.png"
+			}
+		},
+		{
+			"name": "Some Legion Nerd",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/7_Some Legion Nerd.png"
+			}
+		},
+		{
+			"name": "Bestower of Blessings",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Zombie Cleric",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/2_Bestower of Blessings.png"
+			}
+		},
+		{
+			"name": "United Charge",
+			"rarity": "common",
+			"mana_cost": "{W}{W}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/9_United Charge.png"
+			}
+		},
+		{
+			"name": "Increasing Insight",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/11_Increasing Insight.png"
+			}
+		},
+		{
+			"name": "Snobby Biomancer",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Mutant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/16_Snobby Biomancer.png"
+			}
+		},
+		{
+			"name": "Scholar of Secrets",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/15_Scholar of Secrets.png"
+			}
+		},
+		{
+			"name": "Counterspellemental",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/10_Counterspellemental.png"
+			}
+		},
+		{
+			"name": "Aggravated Wound",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/20_Aggravated Wound.png"
+			}
+		},
+		{
+			"name": "Accursed Minotaur",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Minotaur",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/19_Accursed Minotaur.png"
+			}
+		},
+		{
+			"name": "Night's Shriek",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/25_Night's Shriek.png"
+			}
+		},
+		{
+			"name": "Terrorize",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/27_Terrorize.png"
+			}
+		},
+		{
+			"name": "Roaring Flame",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/33_Roaring Flame.png"
+			}
+		},
+		{
+			"name": "Spectresmith",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin Spellshaper",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/35_Spectresmith.png"
+			}
+		},
+		{
+			"name": "Reckless Legionnaire",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Minotaur Warrior",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/32_Reckless Legionnaire.png"
+			}
+		},
+		{
+			"name": "Frenzied Inspiration",
+			"rarity": "common",
+			"mana_cost": "{R}{R}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/30_Frenzied Inspiration.png"
+			}
+		},
+		{
+			"name": "Flourishing Fauna",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/40_Flourishing Fauna.png"
+			}
+		},
+		{
+			"name": "Grave Tender",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/41_Grave Tender.png"
+			}
+		},
+		{
+			"name": "Recycler Ooze",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Ooze",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/43_Recycler Ooze.png"
+			}
+		},
+		{
+			"name": "Rushed Exploration",
+			"rarity": "common",
+			"mana_cost": "{G}{G}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/44_Rushed Exploration.png"
+			}
+		},
+		{
+			"name": "Paper Pusher",
+			"rarity": "common",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/50_Paper Pusher.png"
+			}
+		},
+		{
+			"name": "Attuned Archivist",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Creature — Sphinx Wizard",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/46_Attuned Archivist.png"
+			}
+		},
+		{
+			"name": "Petition",
+			"rarity": "common",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/51_Petition.png"
+			}
+		},
+		{
+			"name": "Outlaw Reality",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/49_Outlaw Reality.png"
+			}
+		},
+		{
+			"name": "Thought Sifter",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Specter",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/61_Thought Sifter.png"
+			}
+		},
+		{
+			"name": "Disinformant",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/56_Disinformant.png"
+			}
+		},
+		{
+			"name": "Artificial Insight",
+			"rarity": "common",
+			"mana_cost": "{U}{U}{B}",
+			"type": "Instant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/55_Artificial Insight.png"
+			}
+		},
+		{
+			"name": "Subterfuge",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Instant",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/59_Subterfuge.png"
+			}
+		},
+		{
+			"name": "Motivated Performer",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Devil",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/65_Motivated Performer.png"
+			}
+		},
+		{
+			"name": "Corpse Charger",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Zombie Berserker",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/63_Corpse Charger.png"
+			}
+		},
+		{
+			"name": "Sudden but Inevitable",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/68_Sudden but Inevitable.png"
+			}
+		},
+		{
+			"name": "Wild Party",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/69_Wild Party.png"
+			}
+		},
+		{
+			"name": "Wandering Ogre",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Ogre Warrior",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/77_Wandering Ogre.png"
+			}
+		},
+		{
+			"name": "Flailing Giant",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Giant Berserker",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/72_Flailing Giant.png"
+			}
+		},
+		{
+			"name": "Unleashed Beast",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/75_Unleashed Beast.png"
+			}
+		},
+		{
+			"name": "Run Rampant",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/74_Run Rampant.png"
+			}
+		},
+		{
+			"name": "Armadillo Courage",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Enchantment Creature — Dryad",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/79_Armadillo Courage.png"
+			}
+		},
+		{
+			"name": "selesnya dude",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Elf Knight",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/85_selesnya dude.png"
+			}
+		},
+		{
+			"name": "Real Elvish Regrower",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Elf",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/84_Real Elvish Regrower.png"
+			}
+		},
+		{
+			"name": "Natural Eyes",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/83_Natural Eyes.png"
+			}
+		},
+		{
+			"name": "Tithetaker's Familiar",
+			"rarity": "common",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Bat",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/93_Tithetaker's Familiar.png"
+			}
+		},
+		{
+			"name": "Living Maskmaker",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/88_Living Maskmaker.png"
+			}
+		},
+		{
+			"name": "Death by Some Cuts",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/86_Death by Some Cuts.png"
+			}
+		},
+		{
+			"name": "Immediate Inquisition",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Instant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/87_Immediate Inquisition.png"
+			}
+		},
+		{
+			"name": "Is it mage?",
+			"rarity": "common",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Wizard",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/97_Is it mage?.png"
+			}
+		},
+		{
+			"name": "Thunderstorm Weird",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Weird",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/101_Thunderstorm Weird.png"
+			}
+		},
+		{
+			"name": "Professional Bolt",
+			"rarity": "common",
+			"mana_cost": "{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/100_Professional Bolt.png"
+			}
+		},
+		{
+			"name": "Forked Studies",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Instant",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/96_Forked Studies.png"
+			}
+		},
+		{
+			"name": "Mana Dork",
+			"rarity": "common",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Zombie Elf",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/105_Mana Dork.png"
+			}
+		},
+		{
+			"name": "Salvaged Behemoth",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/108_Salvaged Behemoth.png"
+			}
+		},
+		{
+			"name": "Crushing Weight",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/102_Crushing Weight.png"
+			}
+		},
+		{
+			"name": "Grave Invocation",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Instant",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/103_Grave Invocation.png"
+			}
+		},
+		{
+			"name": "Glassblade Adept",
+			"rarity": "common",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/116_Glassblade Adept.png"
+			}
+		},
+		{
+			"name": "Combat Cleric",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/113_Combat Cleric.png"
+			}
+		},
+		{
+			"name": "Automated Armor",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Artifact Creature — Equipment Construct",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/111_Automated Armor.png"
+			}
+		},
+		{
+			"name": "Double Strike",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Instant",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/114_Double Strike.png"
+			}
+		},
+		{
+			"name": "Leyline Channeler",
+			"rarity": "common",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Mutant Wizard",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/122_Leyline Channeler.png"
+			}
+		},
+		{
+			"name": "Krosan Tusker 2",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{U}",
+			"type": "Creature — Leviathan Beast",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/120_Krosan Tusker 2.png"
+			}
+		},
+		{
+			"name": "Laboratory Cultivation",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/121_Laboratory Cultivation.png"
+			}
+		},
+		{
+			"name": "Rapid Regrowth",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Instant",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/124_Rapid Regrowth.png"
+			}
+		},
+		{
+			"name": "Take Back",
+			"rarity": "common",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/207_Take Back.png"
+			}
+		},
+		{
+			"name": "Loot",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Instant",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/197_Loot.png"
+			}
+		},
+		{
+			"name": "Ash",
+			"rarity": "common",
+			"mana_cost": "{X}{B}{R}{R}",
+			"type": "Instant",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/187_Ash.png"
+			}
+		},
+		{
+			"name": "Populate",
+			"rarity": "common",
+			"mana_cost": "{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/198_Populate.png"
+			}
+		},
+		{
+			"name": "Strengthen",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/205_Strengthen.png"
+			}
+		},
+		{
+			"name": "Unlife",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Instant",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/208_Unlife.png"
+			}
+		},
+		{
+			"name": "Abjuring Helix",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/186_Abjuring Helix.png"
+			}
+		},
+		{
+			"name": "Repossess",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Instant",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/201_Repossess.png"
+			}
+		},
+		{
+			"name": "Strike",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/206_Strike.png"
+			}
+		},
+		{
+			"name": "Explore Twice",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/189_Explore Twice.png"
+			}
+		},
+		{
+			"name": "Blink",
+			"rarity": "common",
+			"mana_cost": "{WU}",
+			"type": "Instant",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/166_Blink.png"
+			}
+		},
+		{
+			"name": "Proliferate",
+			"rarity": "common",
+			"mana_cost": "{UB}",
+			"type": "Instant",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/167_Proliferate.png"
+			}
+		},
+		{
+			"name": "Grand Entrance",
+			"rarity": "common",
+			"mana_cost": "{BR}{BR}",
+			"type": "Enchantment",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/168_Grand Entrance.png"
+			}
+		},
+		{
+			"name": "Unrestrained Behemoth",
+			"rarity": "common",
+			"mana_cost": "{4}{RG}{RG}",
+			"type": "Creature — Wurm",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/169_Unrestrained Behemoth.png"
+			}
+		},
+		{
+			"name": "Court Haruspex",
+			"rarity": "common",
+			"mana_cost": "{GW}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/170_Court Haruspex.png"
+			}
+		},
+		{
+			"name": "Brink of Death",
+			"rarity": "common",
+			"mana_cost": "{WB}",
+			"type": "Instant",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/171_Brink of Death.png"
+			}
+		},
+		{
+			"name": "Recurring Inspiration",
+			"rarity": "common",
+			"mana_cost": "{UR}",
+			"type": "Sorcery",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/172_Recurring Inspiration.png"
+			}
+		},
+		{
+			"name": "Corpse Scavenge",
+			"rarity": "common",
+			"mana_cost": "{BG}",
+			"type": "Sorcery",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/173_Corpse Scavenge.png"
+			}
+		},
+		{
+			"name": "Recruiter's Gift",
+			"rarity": "common",
+			"mana_cost": "{RW}",
+			"type": "Enchantment — Aura",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/174_Recruiter's Gift.png"
+			}
+		},
+		{
+			"name": "Natural Attunement",
+			"rarity": "common",
+			"mana_cost": "{2}{GU}",
+			"type": "Enchantment — Aura",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/175_Natural Attunement.png"
+			}
+		},
+		{
+			"name": "Stormcloud Drifter",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Creature — Elemental",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/160_Stormcloud Drifter.png"
+			}
+		},
+		{
+			"name": "Migraine",
+			"rarity": "common",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Instant",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/152_Migraine.png"
+			}
+		},
+		{
+			"name": "Assert Dominance",
+			"rarity": "common",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/128_Assert Dominance.png"
+			}
+		},
+		{
+			"name": "Adaptive Beast",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Creature — Beast",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/126_Adaptive Beast.png"
+			}
+		},
+		{
+			"name": "Leyline Convergence",
+			"rarity": "common",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/151_Leyline Convergence.png"
+			}
+		},
+		{
+			"name": "Rotting Spider",
+			"rarity": "common",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Creature — Zombie Spider",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/157_Rotting Spider.png"
+			}
+		},
+		{
+			"name": "Goblin Procrastinator",
+			"rarity": "common",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Creature — Goblin Artificer",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/146_Goblin Procrastinator.png"
+			}
+		},
+		{
+			"name": "Brought from Beyond",
+			"rarity": "common",
+			"mana_cost": "{B}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/134_Brought from Beyond.png"
+			}
+		},
+		{
+			"name": "Rioting Reveler",
+			"rarity": "common",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Creature — Devil",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/156_Rioting Reveler.png"
+			}
+		},
+		{
+			"name": "Winged Behemoth",
+			"rarity": "common",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Creature — Elemental Beast",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/162_Winged Behemoth.png"
+			}
+		},
+		{
+			"name": "Shake the Plane",
+			"rarity": "common",
+			"mana_cost": "{U}{B}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/158_Shake the Plane.png"
+			}
+		},
+		{
+			"name": "Endless Spawn",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{R}{G}{W}",
+			"type": "Creature — Sand",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/139_Endless Spawn.png"
+			}
+		},
+		{
+			"name": "Darkened Mirror",
+			"rarity": "common",
+			"mana_cost": "{R}{G}{W}{U}",
+			"type": "Artifact",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/136_Darkened Mirror.png"
+			}
+		},
+		{
+			"name": "Shattering of the Hills",
+			"rarity": "common",
+			"mana_cost": "{G}{W}{U}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/159_Shattering of the Hills.png"
+			}
+		},
+		{
+			"name": "Beckoning Chorus",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{U}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/130_Beckoning Chorus.png"
+			}
+		},
+		{
+			"name": "Irate",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "Instant",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/194_Irate.png"
+			}
+		},
+		{
+			"name": "Uprooting",
+			"rarity": "common",
+			"mana_cost": "{R}{G}",
+			"type": "Instant",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/209_Uprooting.png"
+			}
+		},
+		{
+			"name": "Fruiting",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/191_Fruiting.png"
+			}
+		},
+		{
+			"name": "Bounce",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/188_Bounce.png"
+			}
+		},
+		{
+			"name": "Frightening",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Instant",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/190_Frightening.png"
+			}
+		},
+		{
+			"name": "Map of Memories",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Clue",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/212_Map of Memories.png"
+			}
+		},
+		{
+			"name": "Radiant Beachfront",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/244_Radiant Beachfront.png"
+			}
+		},
+		{
+			"name": "Haunted Aquifer",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/226_Haunted Aquifer.png"
+			}
+		},
+		{
+			"name": "Molten Bog",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/236_Molten Bog.png"
+			}
+		},
+		{
+			"name": "Wooded Peaks",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/258_Wooded Peaks.png"
+			}
+		},
+		{
+			"name": "Horizon Canopy Reprint",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/227_Horizon Canopy Reprint.png"
+			}
+		},
+		{
+			"name": "Prairie Marsh",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/243_Prairie Marsh.png"
+			}
+		},
+		{
+			"name": "Smoldering Hollow",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/250_Smoldering Hollow.png"
+			}
+		},
+		{
+			"name": "Sunken Glade",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/251_Sunken Glade.png"
+			}
+		},
+		{
+			"name": "Cinder Vista",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/224_Cinder Vista.png"
+			}
+		},
+		{
+			"name": "Canopy Stream",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/223_Canopy Stream.png"
+			}
+		},
+		{
+			"name": "Unknown Fields",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/254_Unknown Fields.png"
+			}
+		},
+		{
+			"name": "Unknown Creek",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/253_Unknown Creek.png"
+			}
+		},
+		{
+			"name": "Unknown Mire",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/256_Unknown Mire.png"
+			}
+		},
+		{
+			"name": "Unknown Peaks",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/257_Unknown Peaks.png"
+			}
+		},
+		{
+			"name": "Unknown Grove",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/255_Unknown Grove.png"
+			}
+		},
+		{
+			"name": "Shire Terrace",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/249_Shire Terrace.png"
+			}
+		},
+		{
+			"name": "Terramorphic Wilds",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/252_Terramorphic Wilds.png"
+			}
+		},
+		{
+			"name": "City Center",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/225_City Center.png"
+			}
+		},
+		{
+			"name": "Ash Barrens Reprint",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/220_Ash Barrens Reprint.png"
+			}
+		},
+		{
+			"name": "Anthem Singer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/1_Anthem Singer.png"
+			}
+		},
+		{
+			"name": "Self Defense",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/6_Self Defense.png"
+			}
+		},
+		{
+			"name": "Public Library",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/13_Public Library.png"
+			}
+		},
+		{
+			"name": "Reprimand",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/14_Reprimand.png"
+			}
+		},
+		{
+			"name": "Nameless Thousands",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/24_Nameless Thousands.png"
+			}
+		},
+		{
+			"name": "Mind Clot",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/23_Mind Clot.png"
+			}
+		},
+		{
+			"name": "Flame Vortex",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/28_Flame Vortex.png"
+			}
+		},
+		{
+			"name": "Lightning Buddy",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment Creature — Elemental",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/31_Lightning Buddy.png"
+			}
+		},
+		{
+			"name": "Big Guy",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment Creature — Elemental",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/37_Big Guy.png"
+			}
+		},
+		{
+			"name": "Bite",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/38_Bite.png"
+			}
+		},
+		{
+			"name": "Reinforcement Rally",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Soldier",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/52_Reinforcement Rally.png"
+			}
+		},
+		{
+			"name": "Be Right Back",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}{U}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/48_Be Right Back.png"
+			}
+		},
+		{
+			"name": "House Recruiter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/57_House Recruiter.png"
+			}
+		},
+		{
+			"name": "Acrid Rain",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/54_Acrid Rain.png"
+			}
+		},
+		{
+			"name": "Showman Specter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Specter",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/67_Showman Specter.png"
+			}
+		},
+		{
+			"name": "Abrasive Brutality",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/62_Abrasive Brutality.png"
+			}
+		},
+		{
+			"name": "Beast Bestie",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/70_Beast Bestie.png"
+			}
+		},
+		{
+			"name": "Lost Adventurer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Spellshaper",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/73_Lost Adventurer.png"
+			}
+		},
+		{
+			"name": "Aggressive Naturalist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Elephant Warrior",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/78_Aggressive Naturalist.png"
+			}
+		},
+		{
+			"name": "Flourishing Fields",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/81_Flourishing Fields.png"
+			}
+		},
+		{
+			"name": "Possessed Person",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Human Spirit",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/92_Possessed Person.png"
+			}
+		},
+		{
+			"name": "Mor-tim-fy",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Instant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/90_Mor-tim-fy.png"
+			}
+		},
+		{
+			"name": "Flight of Ideas",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Bird Wizard",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/95_Flight of Ideas.png"
+			}
+		},
+		{
+			"name": "CoCo 2 but playable?",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/94_CoCo 2 but playable?.png"
+			}
+		},
+		{
+			"name": "Half-Buried Zombie",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/104_Half-Buried Zombie.png"
+			}
+		},
+		{
+			"name": "Putrefiction",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Instant",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/107_Putrefiction.png"
+			}
+		},
+		{
+			"name": "Blade of the Legion",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/112_Blade of the Legion.png"
+			}
+		},
+		{
+			"name": "Flaming Skull-Sword",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/115_Flaming Skull-Sword.png"
+			}
+		},
+		{
+			"name": "bigger guy",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{U}",
+			"type": "Creature",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/119_bigger guy.png"
+			}
+		},
+		{
+			"name": "Overactive Cultivation",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/123_Overactive Cultivation.png"
+			}
+		},
+		{
+			"name": "Enter Agyrem",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/140_Enter Agyrem.png"
+			}
+		},
+		{
+			"name": "Brain Decay",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/133_Brain Decay.png"
+			}
+		},
+		{
+			"name": "Garbage Collection",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/144_Garbage Collection.png"
+			}
+		},
+		{
+			"name": "Forerunner of Nature",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Creature — Plant Beast",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/142_Forerunner of Nature.png"
+			}
+		},
+		{
+			"name": "Archon of Perspective",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Enchantment Creature — Archon",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/127_Archon of Perspective.png"
+			}
+		},
+		{
+			"name": "Walking Decay",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Creature — Zombie",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/161_Walking Decay.png"
+			}
+		},
+		{
+			"name": "League Enforcer",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/150_League Enforcer.png"
+			}
+		},
+		{
+			"name": "Founding of Ravnica",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}{U}",
+			"type": "Enchantment — Aura Saga",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/143_Founding of Ravnica.png"
+			}
+		},
+		{
+			"name": "Cool Spellshaper",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Creature — Spellshaper",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/135_Cool Spellshaper.png"
+			}
+		},
+		{
+			"name": "Mutation Looter",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Creature — Mutant",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/154_Mutation Looter.png"
+			}
+		},
+		{
+			"name": "Mind Scavenger",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{UB}{R}",
+			"type": "Creature",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/180_Mind Scavenger.png"
+			}
+		},
+		{
+			"name": "Reduction",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/200_Reduction.png"
+			}
+		},
+		{
+			"name": "Hollowhead Beast",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{BR}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/178_Hollowhead Beast.png"
+			}
+		},
+		{
+			"name": "spell",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Instant",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/203_spell.png"
+			}
+		},
+		{
+			"name": "Sarah, Angel",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{RG}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/184_Sarah, Angel.png"
+			}
+		},
+		{
+			"name": "Recompense",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/199_Recompense.png"
+			}
+		},
+		{
+			"name": "Model Citizen",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{GW}{U}",
+			"type": "Creature — Citizen",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/181_Model Citizen.png"
+			}
+		},
+		{
+			"name": "Riot",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Instant",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/202_Riot.png"
+			}
+		},
+		{
+			"name": "Witch-Maw Awakens",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{WU}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/185_Witch-Maw Awakens.png"
+			}
+		},
+		{
+			"name": "Helix",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/192_Helix.png"
+			}
+		},
+		{
+			"name": "Farwell Stone",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/211_Farwell Stone.png"
+			}
+		},
+		{
+			"name": "Shackles of Guilt",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/214_Shackles of Guilt.png"
+			}
+		},
+		{
+			"name": "Obscura Triome",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains Island Swamp",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/242_Obscura Triome.png"
+			}
+		},
+		{
+			"name": "Maestros Triome",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island Swamp Mountain",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/235_Maestros Triome.png"
+			}
+		},
+		{
+			"name": "Riveteer Triome",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain Forest",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/247_Riveteer Triome.png"
+			}
+		},
+		{
+			"name": "Cabaretti Triome",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest Plains",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/222_Cabaretti Triome.png"
+			}
+		},
+		{
+			"name": "Brokers Triome",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest Plains Island",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/221_Brokers Triome.png"
+			}
+		},
+		{
+			"name": "Indatha Triome Reprint",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp Forest",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/228_Indatha Triome Reprint.png"
+			}
+		},
+		{
+			"name": "Raugrin Triome Reprint",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island Mountain Plains",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/245_Raugrin Triome Reprint.png"
+			}
+		},
+		{
+			"name": "Zagoth Triome Reprint",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest Island",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/259_Zagoth Triome Reprint.png"
+			}
+		},
+		{
+			"name": "Savai Triome Reprint",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains Swamp",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/248_Savai Triome Reprint.png"
+			}
+		},
+		{
+			"name": "Ketria Triome Reprint",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest Island Mountain",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/229_Ketria Triome Reprint.png"
+			}
+		},
+		{
+			"name": "Boros Angel",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/3_Boros Angel.png"
+			}
+		},
+		{
+			"name": "Reaping Sower",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/5_Reaping Sower.png"
+			}
+		},
+		{
+			"name": "Turn to Trinkets",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/8_Turn to Trinkets.png"
+			}
+		},
+		{
+			"name": "Species Plagiarist",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/17_Species Plagiarist.png"
+			}
+		},
+		{
+			"name": "Wave of Dissuasion",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/18_Wave of Dissuasion.png"
+			}
+		},
+		{
+			"name": "Mine",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/12_Mine.png"
+			}
+		},
+		{
+			"name": "Fleshy B",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Zombie Horror",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/22_Fleshy B.png"
+			}
+		},
+		{
+			"name": "Serial Killings",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/26_Serial Killings.png"
+			}
+		},
+		{
+			"name": "Darker Ritual",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/21_Darker Ritual.png"
+			}
+		},
+		{
+			"name": "Slapcaster",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/34_Slapcaster.png"
+			}
+		},
+		{
+			"name": "Flash Bonesplitter",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/29_Flash Bonesplitter.png"
+			}
+		},
+		{
+			"name": "Unholy Act",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/36_Unholy Act.png"
+			}
+		},
+		{
+			"name": "Nantuko Slicer Real",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/42_Nantuko Slicer Real.png"
+			}
+		},
+		{
+			"name": "Serene Blessing",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/45_Serene Blessing.png"
+			}
+		},
+		{
+			"name": "Embiggeren",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/39_Embiggeren.png"
+			}
+		},
+		{
+			"name": "Azor, Parun",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}{W}{U}{U}{U}",
+			"type": "Legendary Creature — Sphinx",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/47_Azor, Parun.png"
+			}
+		},
+		{
+			"name": "Start Anew",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/53_Start Anew.png"
+			}
+		},
+		{
+			"name": "Szadek, Parun",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}{U}{B}{B}{B}",
+			"type": "Legendary Creature — Vampire",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/60_Szadek, Parun.png"
+			}
+		},
+		{
+			"name": "Reflection of the Future",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Enchantment — Shard",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/58_Reflection of the Future.png"
+			}
+		},
+		{
+			"name": "Rakdos, Parun",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}{B}{R}{R}{R}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/66_Rakdos, Parun.png"
+			}
+		},
+		{
+			"name": "Devilish Tormentor",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Creature — Devil",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/64_Devilish Tormentor.png"
+			}
+		},
+		{
+			"name": "Cisarzim, Parun",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}{R}{G}{G}{G}",
+			"type": "Legendary Creature — Cyclops",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/71_Cisarzim, Parun.png"
+			}
+		},
+		{
+			"name": "Wandering Beast",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/76_Wandering Beast.png"
+			}
+		},
+		{
+			"name": "Mat'Selesnya, Parun",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}{G}{W}{W}{W}",
+			"type": "Legendary Creature — Dryad Elemental",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/82_Mat'Selesnya, Parun.png"
+			}
+		},
+		{
+			"name": "Counting Up",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/80_Counting Up.png"
+			}
+		},
+		{
+			"name": "Obzedat, Paruns",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}{W}{B}{B}{B}",
+			"type": "Legendary Creature — Spirit Advisor",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/91_Obzedat, Paruns.png"
+			}
+		},
+		{
+			"name": "Massacre Girl's Ghost",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/89_Massacre Girl's Ghost.png"
+			}
+		},
+		{
+			"name": "Niv-Mizzet, Reprint",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}{U}{R}{R}{R}",
+			"type": "Legendary Creature — Dragon Wizard",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/99_Niv-Mizzet, Reprint.png"
+			}
+		},
+		{
+			"name": "Mizzix Reprint",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Goblin Wizard",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/98_Mizzix Reprint.png"
+			}
+		},
+		{
+			"name": "Svogthir, Parun",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}{B}{G}{G}{G}",
+			"type": "Legendary Creature — Zombie Elf",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/109_Svogthir, Parun.png"
+			}
+		},
+		{
+			"name": "Meren of Clan Re Print",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/106_Meren of Clan Re Print.png"
+			}
+		},
+		{
+			"name": "Razia, Parun",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}{R}{W}{W}{W}",
+			"type": "Legendary Creature — Angel",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/117_Razia, Parun.png"
+			}
+		},
+		{
+			"name": "Angel's Wings",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/110_Angel's Wings.png"
+			}
+		},
+		{
+			"name": "Simic, Parun",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}{G}{U}{U}{U}",
+			"type": "Legendary Creature — Vedalken",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/125_Simic, Parun.png"
+			}
+		},
+		{
+			"name": "Autogenerator",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Artifact — Clue",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/118_Autogenerator.png"
+			}
+		},
+		{
+			"name": "Word of Ray of Command",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Instant",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/164_Word of Ray of Command.png"
+			}
+		},
+		{
+			"name": "Mono Grixis 2-for-1",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Instant",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/153_Mono Grixis 2-for-1.png"
+			}
+		},
+		{
+			"name": "At Any Cost",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/129_At Any Cost.png"
+			}
+		},
+		{
+			"name": "Hard-to-answer Beater",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Creature — Mutant Berserker",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/148_Hard-to-answer Beater.png"
+			}
+		},
+		{
+			"name": "Bounce Spell",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Instant",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/132_Bounce Spell.png"
+			}
+		},
+		{
+			"name": "Double Dipping",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Artifact — Clue",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/137_Double Dipping.png"
+			}
+		},
+		{
+			"name": "Big Time",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/131_Big Time.png"
+			}
+		},
+		{
+			"name": "Outburst",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/155_Outburst.png"
+			}
+		},
+		{
+			"name": "Exchange More Words",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/141_Exchange More Words.png"
+			}
+		},
+		{
+			"name": "Grave Potential",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/147_Grave Potential.png"
+			}
+		},
+		{
+			"name": "Legislate",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/195_Legislate.png"
+			}
+		},
+		{
+			"name": "Little Death",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/196_Little Death.png"
+			}
+		},
+		{
+			"name": "Stop",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Instant",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/204_Stop.png"
+			}
+		},
+		{
+			"name": "Wilds",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/210_Wilds.png"
+			}
+		},
+		{
+			"name": "Intervening",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Instant",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/193_Intervening.png"
+			}
+		},
+		{
+			"name": "Memories Unbound",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{RW}{B}",
+			"type": "Instant",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/179_Memories Unbound.png"
+			}
+		},
+		{
+			"name": "Carnarium Creature",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{GU}{R}",
+			"type": "Creature — Devil Octopus Clown",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/176_Carnarium Creature.png"
+			}
+		},
+		{
+			"name": "Enriched Rioters",
+			"rarity": "rare",
+			"mana_cost": "{R}{WB}{G}",
+			"type": "Creature — Human Berserker",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/177_Enriched Rioters.png"
+			}
+		},
+		{
+			"name": "Moving Monastery",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{UR}{W}",
+			"type": "Creature — Construct",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/182_Moving Monastery.png"
+			}
+		},
+		{
+			"name": "Sanitized Sustenance",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{BG}{U}",
+			"type": "Artifact — Food",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/183_Sanitized Sustenance.png"
+			}
+		},
+		{
+			"name": "Lair of the Glint-Eye",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Lair",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/231_Lair of the Glint-Eye.png"
+			}
+		},
+		{
+			"name": "Lair of the Dune-Brood",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Lair",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/230_Lair of the Dune-Brood.png"
+			}
+		},
+		{
+			"name": "Lair of the Ink-Treader",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Lair",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/232_Lair of the Ink-Treader.png"
+			}
+		},
+		{
+			"name": "Lair of the Witch-Maw",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Lair",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/233_Lair of the Witch-Maw.png"
+			}
+		},
+		{
+			"name": "Lair of the Yore-Tiller",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Lair",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/234_Lair of the Yore-Tiller.png"
+			}
+		},
+		{
+			"name": "Glint-Eye",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Nephilim",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/145_Glint-Eye.png"
+			}
+		},
+		{
+			"name": "Dune-Brood",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}{G}{W}",
+			"type": "Legendary Creature — Nephilim",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/138_Dune-Brood.png"
+			}
+		},
+		{
+			"name": "Ink-Treader",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{G}{W}{U}",
+			"type": "Legendary Creature — Nephilim",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/149_Ink-Treader.png"
+			}
+		},
+		{
+			"name": "Witch-Maw",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{W}{U}{B}",
+			"type": "Legendary Creature — Nephilim",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/163_Witch-Maw.png"
+			}
+		},
+		{
+			"name": "Yore-Tiller",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{U}{B}{R}",
+			"type": "Legendary Creature — Nephilim",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/165_Yore-Tiller.png"
+			}
+		},
+		{
+			"name": "Nexus of Order",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/239_Nexus of Order.png"
+			}
+		},
+		{
+			"name": "Nexus of Thought",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/241_Nexus of Thought.png"
+			}
+		},
+		{
+			"name": "Nexus of Power",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/240_Nexus of Power.png"
+			}
+		},
+		{
+			"name": "Nexus of Freedom",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/237_Nexus of Freedom.png"
+			}
+		},
+		{
+			"name": "Nexus of Growth",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/238_Nexus of Growth.png"
+			}
+		},
+		{
+			"name": "Threads of Light",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/217_Threads of Light.png"
+			}
+		},
+		{
+			"name": "Threads of Water",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/219_Threads of Water.png"
+			}
+		},
+		{
+			"name": "Threads of Shadow",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/218_Threads of Shadow.png"
+			}
+		},
+		{
+			"name": "Threads of Flame",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/215_Threads of Flame.png"
+			}
+		},
+		{
+			"name": "Threads of Flora",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/216_Threads of Flora.png"
+			}
+		},
+		{
+			"name": "Nephilim Totem",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/213_Nephilim Totem.png"
+			}
+		},
+		{
+			"name": "Reprint of the Paruns",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://mse-hub/sets/FOR-files/img/246_Reprint of the Paruns.png"
+			}
+		},
+	]
+
+[rare(1)]
+	2 Boros Angel
+	2 Reaping Sower
+	2 Turn to Trinkets
+	2 Species Plagiarist
+	2 Wave of Dissuasion
+	2 Mine
+	2 Fleshy B
+	2 Serial Killings
+	2 Darker Ritual
+	2 Slapcaster
+	2 Flash Bonesplitter
+	2 Unholy Act
+	2 Nantuko Slicer Real
+	2 Serene Blessing
+	2 Embiggeren
+	2 Azor, Parun
+	2 Start Anew
+	2 Szadek, Parun
+	2 Reflection of the Future
+	2 Rakdos, Parun
+	2 Devilish Tormentor
+	2 Cisarzim, Parun
+	2 Wandering Beast
+	2 Mat'Selesnya, Parun
+	2 Counting Up
+	2 Obzedat, Paruns
+	2 Massacre Girl's Ghost
+	2 Niv-Mizzet, Reprint
+	2 Mizzix Reprint
+	2 Svogthir, Parun
+	2 Meren of Clan Re Print
+	2 Razia, Parun
+	2 Angel's Wings
+	2 Simic, Parun
+	2 Autogenerator
+	2 Word of Ray of Command
+	2 Mono Grixis 2-for-1
+	2 At Any Cost
+	2 Hard-to-answer Beater
+	2 Bounce Spell
+	2 Double Dipping
+	2 Big Time
+	2 Outburst
+	2 Exchange More Words
+	2 Grave Potential
+	2 Legislate
+	2 Little Death
+	2 Stop
+	2 Wilds
+	2 Intervening
+	2 Memories Unbound
+	2 Carnarium Creature
+	2 Enriched Rioters
+	2 Moving Monastery
+	2 Sanitized Sustenance
+	2 Lair of the Glint-Eye
+	2 Lair of the Dune-Brood
+	2 Lair of the Ink-Treader
+	2 Lair of the Witch-Maw
+	2 Lair of the Yore-Tiller
+	1 Glint-Eye
+	1 Dune-Brood
+	1 Ink-Treader
+	1 Witch-Maw
+	1 Yore-Tiller
+	1 Nexus of Order
+	1 Nexus of Thought
+	1 Nexus of Power
+	1 Nexus of Freedom
+	1 Nexus of Growth
+[uncommon(4)]
+	4 Anthem Singer
+	4 Self Defense
+	4 Public Library
+	4 Reprimand
+	4 Nameless Thousands
+	4 Mind Clot
+	4 Flame Vortex
+	4 Lightning Buddy
+	4 Big Guy
+	4 Bite
+	4 Reinforcement Rally
+	4 Be Right Back
+	4 House Recruiter
+	4 Acrid Rain
+	4 Showman Specter
+	4 Abrasive Brutality
+	4 Beast Bestie
+	4 Lost Adventurer
+	4 Aggressive Naturalist
+	4 Flourishing Fields
+	4 Possessed Person
+	4 Mor-tim-fy
+	4 Flight of Ideas
+	4 CoCo 2 but playable?
+	4 Half-Buried Zombie
+	4 Putrefiction
+	4 Blade of the Legion
+	4 Flaming Skull-Sword
+	4 bigger guy
+	4 Overactive Cultivation
+	4 Enter Agyrem
+	4 Brain Decay
+	4 Garbage Collection
+	4 Forerunner of Nature
+	4 Archon of Perspective
+	4 Walking Decay
+	4 League Enforcer
+	4 Founding of Ravnica
+	4 Cool Spellshaper
+	4 Mutation Looter
+	4 Mind Scavenger
+	4 Reduction
+	4 Hollowhead Beast
+	4 spell
+	4 Sarah, Angel
+	4 Recompense
+	4 Model Citizen
+	4 Riot
+	4 Witch-Maw Awakens
+	4 Helix
+	4 Farwell Stone
+	4 Shackles of Guilt
+	4 Obscura Triome
+	4 Maestros Triome
+	4 Riveteer Triome
+	4 Cabaretti Triome
+	4 Brokers Triome
+	4 Indatha Triome Reprint
+	4 Raugrin Triome Reprint
+	4 Zagoth Triome Reprint
+	4 Savai Triome Reprint
+	4 Ketria Triome Reprint
+[common(7)]
+	8 Gathering Forces
+	8 Some Legion Nerd
+	8 Bestower of Blessings
+	8 United Charge
+	8 Increasing Insight
+	8 Snobby Biomancer
+	8 Scholar of Secrets
+	8 Counterspellemental
+	8 Aggravated Wound
+	8 Accursed Minotaur
+	8 Night's Shriek
+	8 Terrorize
+	8 Roaring Flame
+	8 Spectresmith
+	8 Reckless Legionnaire
+	8 Frenzied Inspiration
+	8 Flourishing Fauna
+	8 Grave Tender
+	8 Recycler Ooze
+	8 Rushed Exploration
+	8 Paper Pusher
+	8 Attuned Archivist
+	8 Petition
+	8 Outlaw Reality
+	8 Thought Sifter
+	8 Disinformant
+	8 Artificial Insight
+	8 Subterfuge
+	8 Motivated Performer
+	8 Corpse Charger
+	8 Sudden but Inevitable
+	8 Wild Party
+	8 Wandering Ogre
+	8 Flailing Giant
+	8 Unleashed Beast
+	8 Run Rampant
+	8 Armadillo Courage
+	8 selesnya dude
+	8 Real Elvish Regrower
+	8 Natural Eyes
+	8 Tithetaker's Familiar
+	8 Living Maskmaker
+	8 Death by Some Cuts
+	8 Immediate Inquisition
+	8 Is it mage?
+	8 Thunderstorm Weird
+	8 Professional Bolt
+	8 Forked Studies
+	8 Mana Dork
+	8 Salvaged Behemoth
+	8 Crushing Weight
+	8 Grave Invocation
+	8 Glassblade Adept
+	8 Combat Cleric
+	8 Automated Armor
+	8 Double Strike
+	8 Leyline Channeler
+	8 Krosan Tusker 2
+	8 Laboratory Cultivation
+	8 Rapid Regrowth
+	8 Take Back
+	8 Loot
+	8 Ash
+	8 Populate
+	8 Strengthen
+	8 Unlife
+	8 Abjuring Helix
+	8 Repossess
+	8 Strike
+	8 Explore Twice
+	8 Blink
+	8 Proliferate
+	8 Grand Entrance
+	8 Unrestrained Behemoth
+	8 Court Haruspex
+	8 Brink of Death
+	8 Recurring Inspiration
+	8 Corpse Scavenge
+	8 Recruiter's Gift
+	8 Natural Attunement
+	8 Stormcloud Drifter
+	8 Migraine
+	8 Assert Dominance
+	8 Adaptive Beast
+	8 Leyline Convergence
+	8 Rotting Spider
+	8 Goblin Procrastinator
+	8 Brought from Beyond
+	8 Rioting Reveler
+	8 Winged Behemoth
+	8 Shake the Plane
+	8 Endless Spawn
+	8 Darkened Mirror
+	8 Shattering of the Hills
+	8 Beckoning Chorus
+	8 Irate
+	8 Uprooting
+	8 Fruiting
+	8 Bounce
+	8 Frightening
+	8 Map of Memories
+	8 Radiant Beachfront
+	8 Haunted Aquifer
+	8 Molten Bog
+	8 Wooded Peaks
+	8 Horizon Canopy Reprint
+	8 Prairie Marsh
+	8 Smoldering Hollow
+	8 Sunken Glade
+	8 Cinder Vista
+	8 Canopy Stream
+	8 Unknown Fields
+	8 Unknown Creek
+	8 Unknown Mire
+	8 Unknown Peaks
+	8 Unknown Grove
+	8 Shire Terrace
+	8 Terramorphic Wilds
+	8 City Center
+	8 Ash Barrens Reprint
+	8 Threads of Light
+	8 Threads of Water
+	8 Threads of Shadow
+	8 Threads of Flame
+	8 Threads of Flora
+	8 Nephilim Totem
+	8 Reprint of the Paruns
+[wildcard(2)]
+	6 Gathering Forces
+	6 Some Legion Nerd
+	6 Bestower of Blessings
+	6 United Charge
+	6 Increasing Insight
+	6 Snobby Biomancer
+	6 Scholar of Secrets
+	6 Counterspellemental
+	6 Aggravated Wound
+	6 Accursed Minotaur
+	6 Night's Shriek
+	6 Terrorize
+	6 Roaring Flame
+	6 Spectresmith
+	6 Reckless Legionnaire
+	6 Frenzied Inspiration
+	6 Flourishing Fauna
+	6 Grave Tender
+	6 Recycler Ooze
+	6 Rushed Exploration
+	6 Paper Pusher
+	6 Attuned Archivist
+	6 Petition
+	6 Outlaw Reality
+	6 Thought Sifter
+	6 Disinformant
+	6 Artificial Insight
+	6 Subterfuge
+	6 Motivated Performer
+	6 Corpse Charger
+	6 Sudden but Inevitable
+	6 Wild Party
+	6 Wandering Ogre
+	6 Flailing Giant
+	6 Unleashed Beast
+	6 Run Rampant
+	6 Armadillo Courage
+	6 selesnya dude
+	6 Real Elvish Regrower
+	6 Natural Eyes
+	6 Tithetaker's Familiar
+	6 Living Maskmaker
+	6 Death by Some Cuts
+	6 Immediate Inquisition
+	6 Is it mage?
+	6 Thunderstorm Weird
+	6 Professional Bolt
+	6 Forked Studies
+	6 Mana Dork
+	6 Salvaged Behemoth
+	6 Crushing Weight
+	6 Grave Invocation
+	6 Glassblade Adept
+	6 Combat Cleric
+	6 Automated Armor
+	6 Double Strike
+	6 Leyline Channeler
+	6 Krosan Tusker 2
+	6 Laboratory Cultivation
+	6 Rapid Regrowth
+	6 Take Back
+	6 Loot
+	6 Ash
+	6 Populate
+	6 Strengthen
+	6 Unlife
+	6 Abjuring Helix
+	6 Repossess
+	6 Strike
+	6 Explore Twice
+	6 Blink
+	6 Proliferate
+	6 Grand Entrance
+	6 Unrestrained Behemoth
+	6 Court Haruspex
+	6 Brink of Death
+	6 Recurring Inspiration
+	6 Corpse Scavenge
+	6 Recruiter's Gift
+	6 Natural Attunement
+	6 Stormcloud Drifter
+	6 Migraine
+	6 Assert Dominance
+	6 Adaptive Beast
+	6 Leyline Convergence
+	6 Rotting Spider
+	6 Goblin Procrastinator
+	6 Brought from Beyond
+	6 Rioting Reveler
+	6 Winged Behemoth
+	6 Shake the Plane
+	6 Endless Spawn
+	6 Darkened Mirror
+	6 Shattering of the Hills
+	6 Beckoning Chorus
+	6 Irate
+	6 Uprooting
+	6 Fruiting
+	6 Bounce
+	6 Frightening
+	6 Map of Memories
+	6 Radiant Beachfront
+	6 Haunted Aquifer
+	6 Molten Bog
+	6 Wooded Peaks
+	6 Horizon Canopy Reprint
+	6 Prairie Marsh
+	6 Smoldering Hollow
+	6 Sunken Glade
+	6 Cinder Vista
+	6 Canopy Stream
+	6 Unknown Fields
+	6 Unknown Creek
+	6 Unknown Mire
+	6 Unknown Peaks
+	6 Unknown Grove
+	6 Shire Terrace
+	6 Terramorphic Wilds
+	6 City Center
+	6 Ash Barrens Reprint
+	15 Anthem Singer
+	15 Self Defense
+	15 Public Library
+	15 Reprimand
+	15 Nameless Thousands
+	15 Mind Clot
+	15 Flame Vortex
+	15 Lightning Buddy
+	15 Big Guy
+	15 Bite
+	15 Reinforcement Rally
+	15 Be Right Back
+	15 House Recruiter
+	15 Acrid Rain
+	15 Showman Specter
+	15 Abrasive Brutality
+	15 Beast Bestie
+	15 Lost Adventurer
+	15 Aggressive Naturalist
+	15 Flourishing Fields
+	15 Possessed Person
+	15 Mor-tim-fy
+	15 Flight of Ideas
+	15 CoCo 2 but playable?
+	15 Half-Buried Zombie
+	15 Putrefiction
+	15 Blade of the Legion
+	15 Flaming Skull-Sword
+	15 bigger guy
+	15 Overactive Cultivation
+	15 Enter Agyrem
+	15 Brain Decay
+	15 Garbage Collection
+	15 Forerunner of Nature
+	15 Archon of Perspective
+	15 Walking Decay
+	15 League Enforcer
+	15 Founding of Ravnica
+	15 Cool Spellshaper
+	15 Mutation Looter
+	15 Mind Scavenger
+	15 Reduction
+	15 Hollowhead Beast
+	15 spell
+	15 Sarah, Angel
+	15 Recompense
+	15 Model Citizen
+	15 Riot
+	15 Witch-Maw Awakens
+	15 Helix
+	15 Farwell Stone
+	15 Shackles of Guilt
+	15 Obscura Triome
+	15 Maestros Triome
+	15 Riveteer Triome
+	15 Cabaretti Triome
+	15 Brokers Triome
+	15 Indatha Triome Reprint
+	15 Raugrin Triome Reprint
+	15 Zagoth Triome Reprint
+	15 Savai Triome Reprint
+	15 Ketria Triome Reprint
+	7 Boros Angel
+	7 Reaping Sower
+	7 Turn to Trinkets
+	7 Species Plagiarist
+	7 Wave of Dissuasion
+	7 Mine
+	7 Fleshy B
+	7 Serial Killings
+	7 Darker Ritual
+	7 Slapcaster
+	7 Flash Bonesplitter
+	7 Unholy Act
+	7 Nantuko Slicer Real
+	7 Serene Blessing
+	7 Embiggeren
+	7 Azor, Parun
+	7 Start Anew
+	7 Szadek, Parun
+	7 Reflection of the Future
+	7 Rakdos, Parun
+	7 Devilish Tormentor
+	7 Cisarzim, Parun
+	7 Wandering Beast
+	7 Mat'Selesnya, Parun
+	7 Counting Up
+	7 Obzedat, Paruns
+	7 Massacre Girl's Ghost
+	7 Niv-Mizzet, Reprint
+	7 Mizzix Reprint
+	7 Svogthir, Parun
+	7 Meren of Clan Re Print
+	7 Razia, Parun
+	7 Angel's Wings
+	7 Simic, Parun
+	7 Autogenerator
+	7 Word of Ray of Command
+	7 Mono Grixis 2-for-1
+	7 At Any Cost
+	7 Hard-to-answer Beater
+	7 Bounce Spell
+	7 Double Dipping
+	7 Big Time
+	7 Outburst
+	7 Exchange More Words
+	7 Grave Potential
+	7 Legislate
+	7 Little Death
+	7 Stop
+	7 Wilds
+	7 Intervening
+	7 Memories Unbound
+	7 Carnarium Creature
+	7 Enriched Rioters
+	7 Moving Monastery
+	7 Sanitized Sustenance
+	7 Lair of the Glint-Eye
+	7 Lair of the Dune-Brood
+	7 Lair of the Ink-Treader
+	7 Lair of the Witch-Maw
+	7 Lair of the Yore-Tiller
+	4 Glint-Eye
+	4 Dune-Brood
+	4 Ink-Treader
+	4 Witch-Maw
+	4 Yore-Tiller
+	4 Nexus of Order
+	4 Nexus of Thought
+	4 Nexus of Power
+	4 Nexus of Freedom
+	4 Nexus of Growth
+	6 Threads of Light
+	6 Threads of Water
+	6 Threads of Shadow
+	6 Threads of Flame
+	6 Threads of Flora
+	6 Nephilim Totem
+	6 Reprint of the Paruns
